@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three letters of dangerous consequences read at a conference of both Houses of Parliament : the first two from Rotterdam and date Iuly 1 &amp; 4 stilo movo, 1642 : the other, from M. Wilmot to M. Crofts at the Hague, dated Iuly 22, 1642 : in which appears a desperate designe of the L. Digby, Cap. Hide, Sir Lewis Divers, M. Jermin. M. Percy, and divers Cavileeres against the Parliament of England : with the names of ships, number of men and amunition now in readiness to be transported into the north : with many other observable matters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62486</idno>
+            <idno type="STC">Wing T1096</idno>
+            <idno type="STC">ESTC R9962</idno>
+            <idno type="EEBO-CITATION">13770433</idno>
+            <idno type="OCLC">ocm 13770433</idno>
+            <idno type="VID">101745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 852:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three letters of dangerous consequences read at a conference of both Houses of Parliament : the first two from Rotterdam and date Iuly 1 &amp; 4 stilo movo, 1642 : the other, from M. Wilmot to M. Crofts at the Hague, dated Iuly 22, 1642 : in which appears a desperate designe of the L. Digby, Cap. Hide, Sir Lewis Divers, M. Jermin. M. Percy, and divers Cavileeres against the Parliament of England : with the names of ships, number of men and amunition now in readiness to be transported into the north : with many other observable matters.</title>
+                  <author>Rochester, Henry Wilmot, Earl of, 1612?-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.G. for E. Husbands and J. Francke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Commons in Parliament to be printed; H. Elsynge Cler. Parl. D. Com."</note>
+                  <note>Reproduction of original in Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101745:1"/>
+            <pb facs="tcp:101745:1" rendition="simple:additions"/>
+            <p>THREE LETTERS Of dangerous Conſequence: READ AT A CONFERENCE OF <hi>Both Houſes of Parliament.</hi>
+            </p>
+            <p>The two firſt from <hi>Rotterdam,</hi> and dated <hi>Iuly</hi> 1. &amp; 4. <hi>ſtilo novo.</hi> 1642. The other, from M. <hi>Wilmot</hi> to M. <hi>Crofts</hi> at the <hi>Hague,</hi> Dated <hi>Iune</hi> 22. 1642.</p>
+            <p>In which appeares a deſperate deſigne of the L. <hi>Digby,</hi> Cap. <hi>Hide,</hi> Sir <hi>Lewis Dives,</hi> M. <hi>Jermin,</hi> M. <hi>Percy,</hi> and divers Cavileeres, againſt the Parliament of <hi>England.</hi> With the names of Ships, number of Men and Amunition now in readineſſe to be tranſ<g ref="char:EOLhyphen"/>ported into the North.</p>
+            <p>With many other obſervable matters.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons in Parliament to be printed.</p>
+                        <closer>
+                           <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>E.G.</hi> for <hi>E. Husbands,</hi> and <hi>J Francke.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="4" facs="tcp:101745:2"/>
+            <opener>
+               <salute>Worſhipfull Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt by the Poſt, many things of conſequence have come to my hand, The Ship Providence of the Kings, with the Lyon, which brought over the Ladies of Ho<g ref="char:EOLhyphen"/>nour to the Queen, bring over for the North parts of <hi>England</hi> all thoſe Gentlemen mentio<g ref="char:EOLhyphen"/>ned within the incloſed, with three or foure ſcore more, it is thought here they goe for <hi>New-caſtle;</hi> ſome of Prince <hi>Roberts</hi> men told me they were bound for <hi>Yorke:</hi> they are all deſperate in their way, that whoever they meet with, if they oppoſe them, to fight it out to the laſt man. The Lyon hath 42. Guns, the Providence hath 14. and is to take in two more, which we know of, now being within one mile of <hi>Rotterdam,</hi> they are 12. foot long, and ſhoot a Bullet of 44. pound weight. Every one here is fearefull of a deſperate deſigne upon the premiſes: you may pleaſe not to harbour any thought of faithful<g ref="char:EOLhyphen"/>neſſe in the Officers of the Lyon, for we have certain intelligence of the truth hereof. I my ſelfe went to the Helleford-ſluce, and ſee Cavi<g ref="char:EOLhyphen"/>leeres
+<pb n="2" facs="tcp:101745:2"/>
+there; and going thither, ſome whereof told me that they went in the Ship, and named all the incloſed. We cannot yet heare of any further pawning of the Jewels, yet all men think they have gotten much money upon them, for they have provided all ſorts of Armes of proof: and otherſome that had Piſtols to make at the <hi>Hague,</hi> could not get them done till all their worke was done, which now is finiſhed, and they lie all for a Wind: much of their Baggage being laden at <hi>Brill</hi> aboard the Providence, and at Hel<g ref="char:EOLhyphen"/>leford-ſluce, aboard the Lyon. The Scout of <hi>Crauling</hi> a ſmall Towne neere <hi>Rotterdam,</hi> told one of this Town, that Prince <hi>Robert</hi> hath hired a Boyer to carry Horſe for <hi>England,</hi> the Scout is the onely Maſter of Horſes in theſe parts. One <hi>Iſaac Light,</hi> a Merchant of the Company, hath bought 15000. waight of Powder, and is now gon to <hi>
+                  <g ref="char:V">Ʋ</g>trecht</hi> to buy Match, all which preſent<g ref="char:EOLhyphen"/>ly to be Ship'd for <hi>England;</hi> they give out it is for the Parliament, and by their order. This Merchant, late Factor for M. <hi>Chriſtopher Tom<g ref="char:EOLhyphen"/>lings</hi> Merchant of <hi>London,</hi> and <hi>Thomas Aſhton</hi> ſer<g ref="char:EOLhyphen"/>vant to M. <hi>Laurence Halſted</hi> of <hi>London,</hi> hath ſhip'd here 38. Caſes of Armes, being but the remaine of 700. Caſes for which they obtained Licence to ſhip here: and at <hi>Anſterdam,</hi> we are informed
+<pb n="4" facs="tcp:101745:3"/>
+that the greateſt part of thoſe are ſhip'd in 3 Flemiſh Boyers or Hoyes, now lying for a Wind at the <hi>Taſſell;</hi> this information we had of one of the Cuſtome-houſe in <hi>Rotterdam,</hi> upon occaſion of a Merchants ſight of the warrant. Yeſterday a Jewell was ſent to <hi>Rotterdam,</hi> from the <hi>Hague,</hi> valued at 40000. Guilders by a Jeweller here. M. <hi>Percy,</hi> M. <hi>Jermin,</hi> M. W. <hi>Mountague,</hi> and M. <hi>Davenant,</hi> came into the <hi>Hague</hi> this day ſeven-night, at 12. a clocke at night in the Queenes Coach, and with her Foot-men. Theſe are all that for preſent I ſhall write, but ſhall informe you more by word of mouth, if I can get paſſage one way or other. Of the moſt materiall of theſe particulars, by the advice of friends, I have in<g ref="char:EOLhyphen"/>formed the Earle of <hi>Warwick</hi> by this bearer, the 38. Caſes are ſhip'd aboard one <hi>Rich. Lyndall,</hi> a <hi>Hull</hi> man, laden for <hi>London.</hi> Thus with my hum<g ref="char:EOLhyphen"/>ble ſervice remembred, I take my leave and reſt,</p>
+            <closer>
+               <signed>Yours to command.</signed>
+Of all theſe we have ſufficient proofe. <dateline>Roterdam <date>1<hi rend="sup">o</hi>. Iulii 1642. Stilo novo.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>In one <hi>White</hi> of <hi>Dover</hi> a Ketch, there are many Fats of Match, with other proviſion of Warre. I hope to be with you before this Letter.</p>
+            </postscript>
+         </div>
+         <div type="summary_of_enclosure">
+            <pb n="5" facs="tcp:101745:3"/>
+            <head>The Contents of the incloſed note.</head>
+            <p>PRince <hi>Robert,</hi> Prince <hi>Maurice,</hi> Lord <hi>Denby, L. Digby, Oenele</hi> that Traytor, Captaine <hi>Hide,</hi> Sir <hi>Lewis Dives,</hi> Collonel <hi>Wilſon</hi> ſent for out of Germany, with very many other Gentlemen and Comman<g ref="char:EOLhyphen"/>ders; and is credibly known that they have all ſorts of Armes for Horſe, &amp; that in great quantity, there being a Hoy or Boyer, a Dutchman hired and paid his freight before hand, to carry the Armes and proviſion that Prince <hi>Robert</hi> and the reſt from the <hi>Hague,</hi> have made for their tranſ<g ref="char:EOLhyphen"/>portation into the North, and is undertaken that theſe Boyer ſhall be conveyed as well home as out.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Worſhipfull Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Wrote to you on Tuſeday laſt by a Mer<g ref="char:EOLhyphen"/>chant, that had a paſſe to come over<g ref="char:EOLhyphen"/>land, but leaſt that ſhould not come to hand though little hath hapened here ſince, I cannot omit this poſt; The ſhip called the <hi>Lion</hi> that brought over Ladies of honour, is now fitted to tranſport into <hi>England P. Robert P. Mawrice,</hi> Lord <hi>Digby,</hi> Lord <hi>Denby,</hi> Collonel <hi>Cockram,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Hide, Oneale,</hi> Sir <hi>Lewis Dives</hi> with <hi>80</hi> or <hi>90</hi> Cavaleers more, they have fitted themſelves with Armor of proofe and all other accoutrements of war, they have beene very merry, and have drunke many healthes to their good voyage, and in their Cups have made Dividents of the Parliament-mens lands, they are very jocond, and were all aboard yeſterday morning, the wind being then fair, but held but a little
+<pb n="6" facs="tcp:101745:4"/>
+ſpace, and now blowes very hard, ſo that God hath now ſtayed them; The Providence that lies at <hi>Brill</hi> is to take in diverſe of them, ſhe hath taken in much of their luggage with two great Gunnes, each <hi>12</hi> foote long, and ſhoote a bullit of <hi>44</hi> pound. Alſo the <hi>Lion</hi> at <hi>Helleford</hi> ſluce, hath taken in much luggage: There are three Boyers or Hoyes lying at <hi>Taſſell,</hi> laden with Armes, and <hi>38</hi> caſes of Armor ſhipped in <hi>Richard Lindall</hi> of <hi>Hull</hi> bound for <hi>London;</hi> I heare they be all Muskets, and there are in that Ship <hi>700</hi> Corſlets, beſide this I was tould by one whoſe ſonne ſits in the Cuſtomhouſe, all theſe ſhipped here by a warrant which they had obtained for <hi>700</hi> caſes; which as a merchant in this Town ſaw, &amp; tould, he, beſides one of the Cuſtomehouſe, did confeſſe it true: They give our diverſe reports, of ſtaying of armes, and of their decli<g ref="char:EOLhyphen"/>ning their voyage, but we knowing they indeavour to worke withall deceiveableneſſe, thinke th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m onely tricks to confound our intelligence, for we ſee ſuch as are laden heere are not ſtayed. Indeed, for certaine the States Generall have given out a warrant of ſtay for Armes, ſo they did when all the Armes provided a<g ref="char:EOLhyphen"/>gainſt the <hi>Scots</hi> were tranſported, the Officers are corrupted: there is a Boyer lying within a mile of this towne to be fraughted with Horſe, for <hi>P. Robert,</hi> A Marchant of this T<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n ſaw the Shippers Charter part y<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them to what part ſhall
+<pb n="5" facs="tcp:101745:4"/>
+be appointed by him betweene <hi>Dower</hi> and <hi>New-caſtle,</hi> the Prince undertakes his ſafe convoy out, and home; one <hi>Iſaac Light</hi> a Marchant of the company here, hath bought <hi>600 l.</hi> worth of powder with much match, where it is ſhipped we cannot yet heare, they worke with much privacy; munday laſt there came a Iewell from the <hi>Hage</hi> valued at <hi>40000</hi> Guilders, by the Iewellers; they were offered <hi>10000</hi> Guilders up<g ref="char:EOLhyphen"/>on it, but would not, and ſo it was returned againe: We cannot heareof any further pawning of the Iewels, nor where they bee, <hi>M<hi rend="sup">r</hi>. Webſter</hi> went with Sir <hi>William Boſwell</hi> to the Queen Munday laſt. Tueſday laſt was ſeavenight at <hi>12</hi> a clock in the night <hi>Maſter Percy, M. Jermin, M. Wil. Mountague,</hi> and <hi>Dane<g ref="char:EOLhyphen"/>nant,</hi> came into the <hi>Hage</hi> with the Queenes Coach, and footemen, This I was tould by one <hi>Mr. —</hi> The Cavalleers doe boaſt, that having a Ship of <hi>42 peeces of Ordinance, and another of 16.</hi> peeces, that will fight till they ſink, if any oppoſe them: This is the reſolution of Captaine <hi>Strachin,</hi> Captaine of the <hi>Providence,</hi> Yeſterday at <hi>Helleford</hi> ſluce ar<g ref="char:EOLhyphen"/>rived <hi>Guſtavus Horne,</hi> with the happy entrance of the King, I hope the Captaine of her, will not doe as the captaine of the <hi>Lion.</hi> This being all of any moment that we hear heer, I humbly take my leave and rest.</p>
+            <closer>
+               <dateline>Rotterdam
+<date>the 4. of June, 1642.</date>
+               </dateline>
+               <signed>Your<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to comm<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:101745:5"/>
+            <head>For M<hi rend="sup">r</hi>. CROFTS at the Hague.</head>
+            <opener>
+               <salute>Deare <hi>WILL,</hi>
+               </salute>
+            </opener>
+            <p>BY theſe laſt Letters to the Queene, you will finde a great altera<g ref="char:EOLhyphen"/>tion of buſineſſe here; the King, that very lately appeared almoſt abandoned by all His Subjects, is now become the Favorite of the Kingdome; yet I believe His Enemies are not ſo neglected as not to be able to raiſe an Army to oppoſe Him: and indeed here lies the jeſt, for they will be followed juſt enough to forfeit their eſtates, which I have heard you often ſay, were better beſtowed on ſome of us. Yeſterday there came a Meſſenger from the Houſe, who had Order, (and did raiſe the power of the County) to entreat Bartley, Aſhburnham, and my ſelfe, to come to ſpeak to the Houſe; but the King gave the Meſſenger a ſhort An<g ref="char:EOLhyphen"/>ſwer, and an Officer or two gave him a ſhort Cudgell, ſo he is returned to London (a fine Gentleman) with his Arme in a Scarfe. Deare Will, preſerve me in your good opinion, for I aſſure you I am,</p>
+            <closer>
+               <signed>Your moſt affectionate humble ſervant, H. WILMOT.</signed> 
+               <dateline>
+                  <date>Iune 22. York. 1642.</date>
+               </dateline>
+
+            </closer>
+            <postscript>
+               <p>Pray if Maſter <hi>Iermin</hi> be with you, preſent my moſt humble ſervice to him.</p>
+            </postscript>
+            <pb facs="tcp:101745:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
